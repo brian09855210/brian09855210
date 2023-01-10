@@ -1,5 +1,7 @@
 <h2>Java Web Engineer</h2>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=brian09855210.brian09855210)
+
 <hr style="height:1px;">
 
 <h3>About Me</h3>
